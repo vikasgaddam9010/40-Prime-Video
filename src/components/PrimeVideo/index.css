@@ -1,0 +1,33 @@
+.bg-contaiiner {
+  width: 97%;
+  background-color: black;
+  height: 100%;
+}
+.prime-image {
+  width: 100%;
+  height: 50vh;
+}
+h1 {
+  color: #000000;
+}
+button {
+  background-color: transparent;
+  border: 0px solid;
+}
+.pop-up {
+  padding: 20px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+}
+.icon {
+  align-self: flex-end;
+  border: 0px solid #ffffff;
+}
+.close-icon {
+  font-size: 20px;
+}
+.video-container {
+  margin: 50px;
+}
